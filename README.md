@@ -194,6 +194,11 @@ int main()
 <br>
 
 ## Output
+![exp6_1](https://github.com/user-attachments/assets/078daaf1-b42c-460d-a933-e3bc4c602243)
+![exp6_2](https://github.com/user-attachments/assets/3eb193bd-76b2-4664-aa58-c46b783470dc)
+![exp6_3](https://github.com/user-attachments/assets/79d09a3b-624c-494e-b55c-656432a2fb48)
+
+
 
 
 ## Conclusion 
